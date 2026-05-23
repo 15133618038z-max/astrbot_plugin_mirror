@@ -1,0 +1,6 @@
+name: astrbot_plugin_mirror
+display_name: 图片对称反转
+desc: 通过自然语言引用让bot对图片进行左右对称镜像反转
+version: v1.0.0
+author: kaf
+repo: https://github.com/15133618038z-max/astrbot_plugin_mirror
