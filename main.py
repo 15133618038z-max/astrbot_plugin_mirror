@@ -9,10 +9,10 @@ from astrbot.api.event import filter
 
 @register(
     "mirror",
-    "你的名字",
+    "kaf",
     "图片对称镜像反转插件",
     "1.0.0",
-    "https://github.com/你的仓库"
+    "https://github.com/15133618038z-max/astrbot_plugin_mirror"
 )
 class MirrorPlugin(Star):
     """图片对称镜像反转插件"""
